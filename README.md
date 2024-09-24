@@ -9,6 +9,7 @@ If making local changes to the SDK, note that npm build must be run inside the t
 ## 🚀 Deploy
 
 # In a new terminal window:
+```bash
 dfx deploy # Deploy smart contract locally
 ```
 
